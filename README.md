@@ -11,4 +11,6 @@ The technologies I used to build this are PHP, Laravel, My SQL, HTML, CSS, JavaS
 
 # Screenshots
 
+## Home Page
+
 ![image](https://user-images.githubusercontent.com/82754463/207814892-b4b50489-f6d4-4d66-8351-d14f97a0d2bb.png)
