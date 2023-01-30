@@ -99,15 +99,6 @@
             
         </div>
 
-        <nav id="main" class="constrain clearfix">
-            <div class="menu-top-container">
-                <ul id="menu-top" class="menu l_tinynav2">
-                </ul><select id="tinynav2" class="tinynav tinynav2">
-                    <option selected="selected">Navigate...</option>
-                </select>
-            </div>
-        </nav>
-
         <div id="content-wrapper" class="clearfix row">
 
             <div class="content-left twelve columns jquery-plugin">
@@ -128,7 +119,7 @@
                                     <form action="rooms" method="POST">
                                         @csrf
                                         <input id="datetimepicker" type="text" name="time"><br>
-                                        <button type="submit" style="background: #0769ad" class="btn btn-primary">Find Empty Classroom</button><br><br>
+                                        <button type="submit" style="background: #0769ad; margin-top: 10px" class="btn btn-primary">Find Empty Classroom</button><br><br>
                                     </form> 
                                 </div>
                             @endif
