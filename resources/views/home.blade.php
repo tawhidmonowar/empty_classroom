@@ -129,7 +129,7 @@
                                 
                                     <table style="width:100%" class="table-classroom">
                                         <tr>
-                                            <th >Room Number</th>
+                                            <th>Room Number</th>
                                             <th>Floor Number</th>
                                             <th>Seats</th>
                                         </tr>
@@ -199,7 +199,7 @@
                     </aside>
 
                     <aside class="widget maintainer-info">
-                        <h3><span class="icon-wrench"></span>Maintainers</h3>
+                        <h3><span class="icon-wrench"></span>Contributors</h3>
                         <ul>
                             <li><a href="https://github.com/tawhidmonowar/"><img alt=""
                                         src="frontend/profile.jpeg"
@@ -210,7 +210,7 @@
                     <aside class="widget licenses">
                         <h3><span class="icon-book"></span>Licenses</h3>
                         <ul>
-                            <li><a href="">MIT License</a></li>
+                            <li><a href="https://github.com/tawhidmonowar/empty_classroom/blob/main/LICENSE">MIT License</a></li>
                         </ul>
                     </aside>
                     <h3><span class=" "></span> </h3>
