@@ -14,7 +14,7 @@ In our university there are more than 30 academic classrooms, and seven departme
 
 To solve this problem I would like to introduce you to a web application, “Empty Classroom”.
 
-## Join the Movement 
+## Contributing to Empty Classroom
 
 We believe that students should spend more time studying and less time searching for a place to do so. That's why we're inviting you to join our mission to make finding an empty classroom a breeze! Here's how you can help:
 
