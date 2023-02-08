@@ -6,7 +6,7 @@ With just a few clicks, you can now find available classrooms at the University 
 
 We built this application with PHP, Laravel, My SQL, HTML, CSS, JavaScript, Bootstrap, and jQuery to make it fast, user-friendly, and accessible to all.
  
-# Why Empty Classroom was Created
+## Why Empty Classroom was Created
 
 Few days ago, there was a junior programming contest held outside our university, and to participate in this contest all the ACM programmers of our university held a meeting. Here we were faced with a problem that is, to arrange the meeting we must find an empty classroom, where we can hold this meeting. During this search for an empty room we had to change the time and place of the meeting three times, for not being able to find it ! Because of this, most of the ACM programmers were unable to attend this meeting.
 
@@ -14,7 +14,7 @@ In our university there are more than 30 academic classrooms, and seven departme
 
 To solve this problem I would like to introduce you to a web application, “Empty Classroom”.
 
-# Join the Movement
+## Join the Movement 
 
 We believe that students should spend more time studying and less time searching for a place to do so. That's why we're inviting you to join our mission to make finding an empty classroom a breeze! Here's how you can help:
 
