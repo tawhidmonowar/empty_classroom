@@ -61,7 +61,7 @@
 
                     <article id="post-2555"
                         class="post-2555 jquery_plugin type-jquery_plugin status-publish hentry tag-dropdown tag-form tag-input tag-multiselect tag-select tag-ui">
-                        <h1 class="entry-title">Empty Classroom</h1>
+                        <h1 class="entry-title"><a href="http://127.0.0.1:8000/" style="color: #333333">Empty Classroom</a></h1>
                         <p class="attribution">by <a href="http://greedycoders.com/">greedyCoders</a></p>
                         <div class="block description">Are you tired of searching for hours to find an empty classroom for your group study, meeting, or event at Metropolitan University? Say goodbye to manual checks and hello to the Empty Classroom!</div>
 
@@ -74,7 +74,7 @@
                                     <form action="rooms" method="POST">
                                         @csrf
                                         <input id="datetimepicker" type="text" name="time"><br>
-                                        <button type="submit" style="background: #0769ad; margin-top: 10px" class="btn btn-primary">Find Empty Classroom</button><br><br>
+                                        <button type="submit" style="background: #0769ad; margin-top: 10px; padding:10px" class="btn btn-primary">Find Empty Classroom</button><br><br>
                                     </form> 
                                 </div>
                             @endif
