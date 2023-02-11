@@ -456,7 +456,7 @@
 					event.stopPropagation();
 					return false;
 				});
-
+/*
 				timeboxparent.on('touchstart', function (event) {
 					start = pointerEventToXY(event);
 					startTop = Math.abs(parseInt(timebox.css('marginTop'), 10));
@@ -474,6 +474,7 @@
 					start = false;
 					startTop = 0;
 				});
+*/
 			}
 			timeboxparent.trigger('resize_scroll.xdsoft_scroller', [percent]);
 		});

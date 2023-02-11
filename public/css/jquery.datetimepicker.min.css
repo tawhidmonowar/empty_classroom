@@ -453,7 +453,8 @@
     right: 0;
     top: 0;
     bottom: 0;
-    cursor: pointer
+    cursor: pointer;
+    display: none;
 }
 
 .xdsoft_datetimepicker.xdsoft_rtl .xdsoft_scrollbar {
