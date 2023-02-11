@@ -108,7 +108,7 @@
                         class="post-2555 jquery_plugin type-jquery_plugin status-publish hentry tag-dropdown tag-form tag-input tag-multiselect tag-select tag-ui">
                         <h1 class="entry-title">Empty Classroom</h1>
                         <p class="attribution">by <a href="http://greedycoders.com/">greedyCoders</a></p>
-                        <div class="block description">Empty classroom is a simple web application, it helps students and teachers to find Empty Classrooms in Metropolitan University. All the user has to do is input a date and time, and the app will search for the empty classrooms available at that time.</div>
+                        <div class="block description">Are you tired of searching for hours to find an empty classroom for your group study, meeting, or event at Metropolitan University? Say goodbye to manual checks and hello to the Empty Classroom!</div>
 
                         <hr><br>
                         
@@ -164,13 +164,13 @@
                                 <a class="download" href="http://127.0.0.1:8000/login">
                                     <span class="inner-wrapper"><span class="icon-user"></span>Sign in</span>
                                 </a>
-                                <a class="other-link gh-fork" href=""><span
+                                <a class="other-link gh-fork" href="https://github.com/tawhidmonowar/empty_classroom/fork"><span
                                         class="icon-github"></span>Fork on GitHub</a>
-                                <a class="other-link view-homepage" href=""><span
+                                <a class="other-link view-homepage" href="https://github.com/tawhidmonowar/empty_classroom"><span
                                         class="icon-external-link"></span>View Homepage</a>
-                                <a class="other-link read-docs" href=""><span
+                                <a class="other-link read-docs" href="https://github.com/tawhidmonowar/empty_classroom#readme"><span
                                         class="icon-file"></span>Read the Docs</a>
-                                <a class="other-link bugs" href=""><span
+                                <a class="other-link bugs" href="https://github.com/tawhidmonowar/empty_classroom/issues"><span
                                         class="icon-flag"></span>Bug Reports</a>
                             </div>
                         </div>
@@ -192,7 +192,7 @@
                         <h3><span class="icon-user"></span>Author</h3>
                         <ul>
                             <li><a href="https://github.com/tawhidmonowar/"><img alt="Tawhid"
-                                        src="frontend/profile.jpeg"
+                                        src="frontend/558148.png"
                                         class="avatar avatar-80 photo avatar-default" width="80" height="80">Tawhid Monowar</a>
                             </li>
                         </ul>
@@ -202,7 +202,7 @@
                         <h3><span class="icon-wrench"></span>Contributors</h3>
                         <ul>
                             <li><a href="https://github.com/tawhidmonowar/"><img alt=""
-                                        src="frontend/profile.jpeg"
+                                        src="frontend/558148.png"
                                         class="avatar avatar-48 photo avatar-default" width="48" height="48">Tawhid Monowar</a></li>
                         </ul>
                     </aside>
