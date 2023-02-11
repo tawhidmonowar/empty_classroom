@@ -2882,6 +2882,7 @@ footer .books li a cite {
 
 	#sidebar,
 	.content-right #sidebar {
+		padding: 0px;
 		width: auto;
 		float: none;
 		clear: both;
@@ -2935,6 +2936,7 @@ footer .books li a cite {
 	#logo-events {
 		padding-top: 20px;
 		padding-bottom: 10px;
+		height: 40px;
 	}
 
 	#logo-events aside {
