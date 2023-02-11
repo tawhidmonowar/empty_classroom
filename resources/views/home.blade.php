@@ -43,52 +43,7 @@
         <section id="global-nav">
             <nav>
                 <div class="constrain">
-                    <!--
-                    <ul class="projects">
-                        <li class="project jquery"><a href="https://jquery.com/" title="jQuery">jQuery</a></li>
-                        <li class="project jquery-ui"><a href="https://jqueryui.com/" title="jQuery UI">jQuery UI</a>
-                        </li>
-                        <li class="project jquery-mobile"><a href="https://jquerymobile.com/"
-                                title="jQuery Mobile">jQuery Mobile</a></li>
-                        <li class="project sizzlejs"><a href="https://sizzlejs.com/" title="Sizzle">Sizzle</a></li>
-                        <li class="project qunitjs"><a href="https://qunitjs.com/" title="QUnit">QUnit</a></li>
-                    </ul>
-                    <ul class="links l_tinynav1">
-                        <li><a href="https://plugins.jquery.com/">Plugins</a></li>
-                        <li class="dropdown"><a href="https://contribute.jquery.org/">Contribute</a>
-                            <ul>
-                                <li><a href="https://js.foundation/CLA">CLA</a></li>
-                                <li><a href="https://contribute.jquery.org/style-guide/">Style Guides</a></li>
-                                <li><a href="https://contribute.jquery.org/triage/">Bug Triage</a></li>
-                                <li><a href="https://contribute.jquery.org/code/">Code</a></li>
-                                <li><a href="https://contribute.jquery.org/documentation/">Documentation</a></li>
-                                <li><a href="https://contribute.jquery.org/web-sites/">Web Sites</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown"><a href="https://js.foundation/events">Events</a>
-                            <ul class="wide">
-                            </ul>
-                        </li>
-                        <li class="dropdown"><a href="https://jquery.org/support/">Support</a>
-                            <ul>
-                                <li><a href="https://learn.jquery.com/">Learning Center</a></li>
-                                <li><a href="https://irc.jquery.org/">IRC/Chat</a></li>
-                                <li><a href="https://forum.jquery.com/">Forums</a></li>
-                                <li><a href="https://stackoverflow.com/tags/jquery/info">Stack Overflow</a></li>
-                                <li><a href="https://jquery.org/support/">Commercial Support</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown"><a href="https://js.foundation/">JS Foundation</a>
-                            <ul>
-                                <li><a href="https://js.foundation/about/join">Join</a></li>
-                                <li><a href="https://js.foundation/about/members">Members</a></li>
-                                <li><a href="https://js.foundation/about/leadership">Leadership</a></li>
-                                <li><a href="https://js.foundation/community/code-of-conduct">Conduct</a></li>
-                                <li><a href="https://js.foundation/about/donate">Donate</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                -->
+                    
                 </div>
             </nav>
         </section>
